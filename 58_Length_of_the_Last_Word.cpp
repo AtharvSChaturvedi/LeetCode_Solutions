@@ -1,7 +1,7 @@
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        if(s.empty() return 0;
+        if(s.empty()) return 0;
 
         int length=0;
         int i=s.size()-1;
